@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "75cd2d1a-90c8-438f-b167-4ba3d5c217d1": {
+      "label": "And Still I Rise",
+      "is_offline": false,
+      "file_url": "https://ia800109.us.archive.org/15/items/sample-02_202502/Sample%2002.mp3",
+      "duration": 174,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Maya Angelous reads her inspiration poem \"And Still I Rise.\" Her poem focuses on the resistance that African Americans have had in the face of colonial oppression. "
+        }
+      ]
+    }
+  ],
+  "citation": "Angelou, Maya. \"And Still I Rise.\"",
+  "item_type": "Audio",
+  "label": "And Still I Rise",
+  "created_at": "2025-04-06T19:52:33.279Z",
+  "created_by": "tanyaclement",
+  "updated_at": "2025-04-06T19:52:33.279Z",
+  "updated_by": "tanyaclement"
+}
