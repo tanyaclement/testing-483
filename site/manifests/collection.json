@@ -1,0 +1,1 @@
+{"@context":"http://iiif.io/api/presentation/3/context.json","id":"https://tanyaclement.github.io/testing-483/manifests/collection.json","type":"Collection","label":{"en":["Testing for Mike's project"]},"items":[{"id":"https://tanyaclement.github.io/testing-483/manifests/and-still-i-rise.json","type":"Manifest","label":{"en":["And Still I Rise"]}}]}
