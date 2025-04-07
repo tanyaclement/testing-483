@@ -8,7 +8,7 @@
   "project": {
     "github_org": "tanyaclement",
     "is_private": false,
-    "title": "Testing for Mike's project",
+    "title": "And Still I Rise",
     "description": "testing",
     "language": "en",
     "slug": "testing-483",
@@ -16,7 +16,18 @@
     "authors": "",
     "media_player": "avannotate",
     "auto_populate_home_page": true,
-    "additional_users": [],
+    "additional_users": [
+      {
+        "login_name": "Sjarcand25",
+        "avatar_url": "https://avatars.githubusercontent.com/u/200543751?v=4",
+        "admin": false
+      },
+      {
+        "login_name": "saamturner",
+        "avatar_url": "https://avatars.githubusercontent.com/u/157153031?v=4",
+        "admin": false
+      }
+    ],
     "tags": {
       "tagGroups": [
         {
@@ -128,7 +139,7 @@
       ]
     },
     "created_at": "2025-04-06T19:51:03.351Z",
-    "updated_at": "2025-04-06T20:08:13.341Z",
+    "updated_at": "2025-04-07T20:14:03.406Z",
     "generate_pages_site": true
   },
   "is_private": false
